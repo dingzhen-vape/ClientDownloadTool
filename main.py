@@ -1,6 +1,3 @@
-
-from encodings.punycode import T
-from http.cookies import SimpleCookie
 import os
 import time
 from tkinter.filedialog import asksaveasfilename
